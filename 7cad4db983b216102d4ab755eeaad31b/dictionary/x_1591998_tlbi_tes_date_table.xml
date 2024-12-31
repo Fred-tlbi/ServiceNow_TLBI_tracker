@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e21e85f983b216102d4ab755eeaad38e" label="Date_Table" max_length="40" name="x_1591998_tlbi_tes_date_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date"/>
+    </element>
+</database>
